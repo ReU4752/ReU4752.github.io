@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ReU&#39;s Blog</title>
-    <link>https://reu4752.github.io/</link>
-    <description>Recent content on ReU&#39;s Blog</description>
+    <title>Posts on ReU&#39;s Blog</title>
+    <link>https://reu4752.github.io/post/</link>
+    <description>Recent content in Posts on ReU&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
     <managingEditor>liyu4752@gmail.com (ReU)</managingEditor>
     <webMaster>liyu4752@gmail.com (ReU)</webMaster>
     <lastBuildDate>Mon, 13 May 2019 02:30:32 +0900</lastBuildDate>
     
-	<atom:link href="https://reu4752.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://reu4752.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
