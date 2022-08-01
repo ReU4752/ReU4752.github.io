@@ -4,18 +4,12 @@
   
   
   <entry>
-    <title>UE5 Toon Rendering</title>
-    <link href="/2022/06/27/UE5-Toon-Rendering/"/>
-    <url>/2022/06/27/UE5-Toon-Rendering/</url>
+    <title>First</title>
+    <link href="/2022/08/01/First/"/>
+    <url>/2022/08/01/First/</url>
     
-    <content type="html"><![CDATA[<p>Unreal Engine에서 툰 쉐이딩을 구현한다면 보통 Unlit 마테리얼을 이용하거나 포스트 프로세싱 방식을 사용합니다.<br>그러나 언리얼 마테리얼 에디터의 제약으로 원하는 결과를 얻기 힘들 때가 많습니다.</p><p>아래의 내용은 며칠 동안 직접 엔진 코드와 쉐이더를 수정하며 툰 렌더링을 구현한 것입니다.</p><h2 id="여러-가지-툰-스타일"><a href="#여러-가지-툰-스타일" class="headerlink" title="여러 가지 툰 스타일"></a>여러 가지 툰 스타일</h2><p>가장 먼저 툰 스타일에 대해 탐구해볼 필요가 있습니다.<br>여러 작품의 특징과 마지막에서는 각 게임의 툰 스타일 특징을 서술하겠습니다.</p><p>툰 스타일의 기본 특징에는 투톤의 음영이 있습니다. 아래 사진처럼 빛이 드는 면과 안드는 면의 구분이 확실하게 보입니다.</p><p>음영을 쉐이더로 표현한다면</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs hlsl">result = max(step(0, dot(N, L)), 0);<br></code></pre></td></tr></table></figure><p>최근에는 입체감을 위해 명암을 더 넣은 작품도 있습니다.</p><p>그 다음으로는 외곽선입니다.</p><h2 id="원신"><a href="#원신" class="headerlink" title="원신"></a>원신</h2><hr><p>a</p><h2 id="퍼니싱-그레이-레이븐"><a href="#퍼니싱-그레이-레이븐" class="headerlink" title="퍼니싱 그레이 레이븐"></a>퍼니싱 그레이 레이븐</h2><hr>]]></content>
+    <content type="html"><![CDATA[<p>Hello</p>]]></content>
     
-    
-    <categories>
-      
-      <category>Unreal Engine</category>
-      
-    </categories>
     
     
   </entry>
